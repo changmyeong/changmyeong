@@ -10,7 +10,7 @@ As a Software Engineer, I have experiences in the fields of travel, game, blockc
 
 ### CREDER
 *Tech Advisor (2023.10 ~ 2023.10)*
-- Reverse engineering the KlaySwap client to derive unknown calculation formulas to aid DeFi development.
+- Reverse engineering the KlaySwap client to derive unknown calculation formulas to support Goldstation DeFi development.
 
 ### LAB3
 *Co-Founder & Software Engineer (2023.05 ~ 2024.03)*
