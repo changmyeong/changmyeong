@@ -14,7 +14,7 @@ As a Software Engineer, I have experiences in the fields of travel, game, blockc
 
 ### LAB3
 *Co-Founder & Software Engineer (2023.05 ~ 2024.03)*
-- Created and launched various B2C-based products to find Product-Market Fit (PMF).
+- Created and launched various B2C-based products to find Product-Market Fit.
 - Achieved 1,500 DAU organically through utility development without marketing.
 
 ### Netmarble Company / METAVERSE World
