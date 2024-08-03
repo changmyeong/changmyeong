@@ -2,11 +2,15 @@
 
 As a Software Engineer, I have experiences in the fields of travel, game, blockchain, and advertising.
 
-## ⚡ Career
+## ⚡ Experiences
 
 ### Dable
 *Software Engineer (2024.03 ~ Present)*
 - Developed and maintained an advertising DSP system.
+
+### CREDER
+*Tech Advisor (2023.10 ~ 2023.10)*
+- Reverse engineering the KlaySwap client to derive unknown calculation formulas to aid DeFi development.
 
 ### LAB3
 *Co-Founder & Software Engineer (2023.05 ~ 2024.03)*
