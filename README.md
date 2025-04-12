@@ -5,7 +5,7 @@ As a Software Engineer, I have experiences in the fields of travel, game, blockc
 ## ⚡ Experiences
 
 ### Dable
-*Software Engineer (2024.03 ~ Present)*
+*Software Engineer (2024.03 ~ 2025.04)*
 - Developed and maintained an advertising DSP system.
 
 ### CREDER
@@ -18,13 +18,13 @@ As a Software Engineer, I have experiences in the fields of travel, game, blockc
 - Achieved 1,500 DAU organically through utility development without marketing.
 
 ### Netmarble Company / METAVERSE World
-*Technical Team Lead (2023.03 ~ 2024.03)*
+*Technical Team Lead (2022.03 ~ 2023.03)*
 - Redesigned the system and migrated legacy monolithic services to a serverless microservices architecture on AWS.
 - Developed an NFT marketplace and middleware for tokenizing existing games with blockchain integration.
 - Managed a tech team of 10+ members.
 
 ### ITAM Games
-*Co-Founder & CTO (2018.12 ~ 2023.03)*
+*Co-Founder & CTO (2018.12 ~ 2022.03)*
 - Acquired by Netmarble Company.
 - Designed systems and developed DApp services.
 - Designed game security and optimized server performance.
