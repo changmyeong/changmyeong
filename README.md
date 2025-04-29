@@ -1,8 +1,20 @@
 # Changmyeong Baek
 
-As a Software Engineer, I have experiences in the fields of travel, game, blockchain, and advertising.
+I have extensive experience in both web frontend and backend layers, with a strong background in AWS Cloud infrastructure and microservices architecture.
+
+As a co-founder and CTO of a blockchain company, I led the technology strategy and successfully launched a product that ranked in the global Top 10 of blockchain dapps, eventually leading to the company's acquisition by Netmarble Company.
+
+I prefer working based on clear evidence and reasoning, but I also value fast execution and flexible decision-making. I am skilled at clearly defining problems, designing structured solutions, and enjoy growing alongside my team while delivering meaningful results.
 
 ## ⚡ Experiences
+
+### Footballzon
+*Co-Founder & CTO (2025.04 ~ Current)*
+- Developing an AI soccer training system.
+
+### Parkingflow
+*Co-Founder & Software Engineer (2025.02 ~ Current)*
+- Developed and maintained of valet parking solution.
 
 ### Dable
 *Software Engineer (2024.03 ~ 2025.04)*
@@ -15,9 +27,8 @@ As a Software Engineer, I have experiences in the fields of travel, game, blockc
 ### LAB3
 *Co-Founder & Software Engineer (2023.05 ~ 2024.03)*
 - Created and launched various B2C-based products to find Product-Market Fit.
-- Achieved 1,500 DAU organically through utility development without marketing.
 
-### Netmarble Company / METAVERSE World
+### Netmarble Company / FNCY(Before ITAM/ITAM Cube)
 *Technical Team Lead (2022.03 ~ 2023.03)*
 - Redesigned the system and migrated legacy monolithic services to a serverless microservices architecture on AWS.
 - Developed an NFT marketplace and middleware for tokenizing existing games with blockchain integration.
@@ -44,7 +55,7 @@ As a Software Engineer, I have experiences in the fields of travel, game, blockc
 ## 🔭 Interests
 System design, Serverless, MSA, AI, Blockchain, and more.
 
-## 👯 Open Source
+## 👯 Contributions
 - [node-schedule](https://github.com/node-schedule/node-schedule/pull/583)
 - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native/pull/2147)
 - [dynamoose-decorator](https://github.com/p1ayground/dynamoose-decorator)
