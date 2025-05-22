@@ -12,10 +12,6 @@ I prefer working based on clear evidence and reasoning, but I also value fast ex
 *Co-Founder & CTO (2025.04 ~ Current)*
 - Developing an AI soccer training system.
 
-### Parkingflow
-*Co-Founder & Software Engineer (2025.02 ~ Current)*
-- Developed and maintained of valet parking solution.
-
 ### Dable
 *Software Engineer (2024.03 ~ 2025.04)*
 - Developed and maintained an advertising DSP system.
@@ -28,7 +24,7 @@ I prefer working based on clear evidence and reasoning, but I also value fast ex
 *Co-Founder & Software Engineer (2023.05 ~ 2024.03)*
 - Created and launched various B2C-based products to find Product-Market Fit.
 
-### Netmarble Company / FNCY(Before ITAM/ITAM Cube)
+### Netmarble Company / FNCY(Before ITAM)
 *Technical Team Lead (2022.03 ~ 2023.03)*
 - Redesigned the system and migrated legacy monolithic services to a serverless microservices architecture on AWS.
 - Developed an NFT marketplace and middleware for tokenizing existing games with blockchain integration.
